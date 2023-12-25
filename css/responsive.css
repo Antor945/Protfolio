@@ -1,0 +1,44 @@
+@media (min-width: 320px) and (max-width: 575px){
+    #about {
+        padding-top: 0px;
+    }
+    .column_reverse{
+        flex-direction: column-reverse;
+    }
+    .about_content h2 {
+        font-size: 63px;
+        text-align: center;
+    }
+    .about_content{
+        text-align: center;
+    }
+    .itmes {
+        width: 100%;
+    }
+    .itmes h2 {
+        width: 100%;
+    }
+    .itmes p {
+        width: 100%;
+    }
+    .expriance_content h2 {
+        text-align: center;
+    }
+    .expriance_content p {
+        text-align: center;
+    }
+    .comun_btn {
+        padding: 12px 12px;
+    }
+    .cv_btn {
+        padding: 12px 10px;
+    }
+    .Work_Process{
+        text-align: center;
+    }
+    .Work_Process h2 {
+        font-size: 40px;
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+}
